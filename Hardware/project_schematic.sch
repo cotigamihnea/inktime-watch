@@ -3007,13 +3007,13 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 </class>
 </classes>
 <parts>
-<part name="IC1" library="InkTime_v5" deviceset="BQ25180YBGR_BQ25180YBGR" device=""/>
+<part uuid="0xABCDEF10" name="IC1" library="InkTime_v5" deviceset="BQ25180YBGR_BQ25180YBGR" device=""/>
 <part name="C38" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="1uF"/>
 <part name="C39" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="10uF"/>
 <part name="C37" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="1uF"/>
 <part name="R1" library="InkTime_v5" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
-<part name="L7" library="InkTime_v5" deviceset="MLP2016SR47MT0S1_FTC252012SR47MBCA" device=""/>
-<part name="IC9" library="InkTime_v5" deviceset="RT6160AWSC_RT6160AWSC" device=""/>
+<part uuid="0xABCDEF00" name="L7" library="InkTime_v5" deviceset="MLP2016SR47MT0S1_FTC252012SR47MBCA" device=""/>
+<part uuid="0xABCDEF18" name="IC9" library="InkTime_v5" deviceset="RT6160AWSC_RT6160AWSC" device=""/>
 <part name="C24" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="10uF"/>
 <part name="C23" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="0.1uF"/>
 <part name="C25" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="22uF"/>
@@ -3030,7 +3030,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 <part name="TP_SDA" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
 <part name="R17" library="InkTime_v5" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="3K3"/>
 <part name="R18" library="InkTime_v5" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="3K3"/>
-<part name="IC3" library="InkTime_v5" deviceset="BMA423_BMA423" device=""/>
+<part uuid="0xABCDEF1E" name="IC3" library="InkTime_v5" deviceset="BMA423_BMA423" device=""/>
 <part name="R3" library="InkTime_v5" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
 <part name="GND5" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
 <part name="C19" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="22uF"/>
@@ -3067,7 +3067,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 <part name="GND18" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
 <part name="GND19" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
 <part name="L1" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_2_744043680" device="IND_4828-WE-TPC_WRE" value="3.9nH"/>
-<part name="X1" library="InkTime_v5" deviceset="NORDIC_NRF_XTAL_32MHZ" device="" value="32MHz"/>
+<part uuid="0xABCDEF02" name="X1" library="InkTime_v5" deviceset="NORDIC_NRF_XTAL_32MHZ" device="" value="32MHz"/>
 <part name="C1" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="12pF"/>
 <part name="GND20" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
 <part name="C2" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="12pF"/>
@@ -3091,8 +3091,8 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 <part name="C17" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="12pF"/>
 <part name="C18" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="12pF"/>
 <part name="GND28" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
-<part name="X2" library="InkTime_v5" deviceset="NORDIC_NRF_1_XTAL_32KHZ" device="" value="32.768kHz"/>
-<part name="J1" library="InkTime_v5" deviceset="503480-2400_503480-2400" device=""/>
+<part uuid="0xABCDEF1A" name="X2" library="InkTime_v5" deviceset="NORDIC_NRF_1_XTAL_32KHZ" device="" value="32.768kHz"/>
+<part uuid="0xABCDEF1C" name="J1" library="InkTime_v5" deviceset="503480-2400_503480-2400" device=""/>
 <part name="GND29" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
 <part name="EPD_C6" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
 <part name="EPD_C10" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
@@ -3107,7 +3107,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 <part name="GND30" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
 <part name="GND31" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
 <part name="GND32" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
-<part name="U3" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_MAX17048G+T10" device=""/>
+<part uuid="0xABCDEF16" name="U3" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_MAX17048G+T10" device=""/>
 <part name="GND33" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
 <part name="GND34" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
 <part name="GND35" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
@@ -3124,7 +3124,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 <part name="GND40" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
 <part name="GND41" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
 <part name="GND42" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
-<part name="D3" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_3_USBLC6-2SC6Y" device=""/>
+<part uuid="0xABCDEF04" name="D3" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_3_USBLC6-2SC6Y" device=""/>
 <part name="GND43" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
 <part name="C26" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="820pF"/>
 <part name="C28" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="820pF"/>
@@ -3135,13 +3135,13 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 <part name="C29" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="1uF"/>
 <part name="C31" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="1uF"/>
 <part name="C30" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="1uF"/>
-<part name="SW_DN" library="InkTime_v5" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
+<part uuid="0xABCDEF06" name="SW_DN" library="InkTime_v5" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
 <part name="SW_ENT" library="InkTime_v5" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
 <part name="SW_UP" library="InkTime_v5" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
 <part name="GND45" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
 <part name="GND46" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
 <part name="GND47" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
-<part name="IC2" library="InkTime_v5" deviceset="DRV2605YZFR_DRV2605YZFR" device=""/>
+<part uuid="0xABCDEF14" name="IC2" library="InkTime_v5" deviceset="DRV2605YZFR_DRV2605YZFR" device=""/>
 <part name="C32" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="1uF"/>
 <part name="C34" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="0.1uF"/>
 <part name="GND48" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
@@ -3150,17 +3150,17 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 <part name="GND51" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
 <part name="TP_ON" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
 <part name="TP_OFF" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="Q1" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
+<part uuid="0xABCDEF08" name="Q1" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
 <part name="R_PWR_EPD" library="InkTime_v5" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
 <part name="GND52" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
 <part name="C1-EP-DR" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="10uF"/>
 <part name="L5" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_2_744043680" device="IND_4828-WE-TPC_WRE" value="68uH"/>
-<part name="D2" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device=""/>
+<part uuid="0xABCDEF0A" name="D2" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device=""/>
 <part name="D5" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device=""/>
 <part name="D4" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device=""/>
 <part name="C2-EP-DR1" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_1_ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="4.7uF/25V"/>
 <part name="GND53" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
-<part name="Q3" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_6_SI1308EDL-T1-GE3" device=""/>
+<part uuid="0xABCDEF0E" name="Q3" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_6_SI1308EDL-T1-GE3" device=""/>
 <part name="R2_EP_DR" library="InkTime_v5" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
 <part name="R1_EP_DR" library="InkTime_v5" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0.47"/>
 <part name="GND54" library="InkTime_v5" deviceset="SUPPLY1_GND" device=""/>
